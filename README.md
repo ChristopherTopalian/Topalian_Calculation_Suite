@@ -4,3 +4,5 @@ This innovative JavaScript application will teach you many important computer pr
 Video: https://www.youtube.com/watch?v=XeRqqFsEFVM
 
 Updates Here: https://github.com/ChristopherTopalian/Topalian_Calculation_Suite
+
+![Topalian_Calculation_Engine](https://pbs.twimg.com/media/F0HPnBwWIAIqDCY?format=jpg&name=large)
